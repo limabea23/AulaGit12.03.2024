@@ -1,4 +1,4 @@
-for (let l = 23; l = 10; l++) {
-    console.log(b);
+for (let a = 1; a = 10; a++) {
+    console.log(a);
 }
-console.log("concluido :)")
+console.log("Terminou!")
