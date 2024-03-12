@@ -1,4 +1,4 @@
-for (let i = 23; i >= 10; i--) {
-    console.log(i);
+for (let b = 23; b >= 10; b--) {
+    console.log(b);
 }
 console.log("Finish!")
