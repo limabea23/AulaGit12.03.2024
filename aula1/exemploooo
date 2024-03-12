@@ -1,0 +1,12 @@
+for (let i = 2; i <= 6; i++){
+    console.log(2*i)
+}
+
+for(let i = 2; i<= 6; i++){
+    if ( i % 2 == 0){
+        par = i;
+        resultado = par + resultado;
+    }
+}
+
+console.log(resultado)

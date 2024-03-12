@@ -1,0 +1,11 @@
+//Iniciar numero
+
+let numero = 13
+
+//Fazer a condição: SE ou IF
+if(numero => 18){
+    //exiba a mensagem
+    console.log("voce é maior de idade")
+}else if(numero < 18){
+    console.log("voce é menor de idade")
+}
